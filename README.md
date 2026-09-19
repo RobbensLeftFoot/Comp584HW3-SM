@@ -1,1 +1,1 @@
-https://github.com/RobbensLeftFoot/Comp584HW3-SM
+https://robbensleftfoot.github.io/Comp584HW3-SM/
